@@ -1,0 +1,4 @@
+Date,IsWeekDay,IsHoliday,IsPeakHour,IsOvernight,Month,Occupancy,Speed,Volumn,Rainfall
+20260419184200,0,0,1,0,4,0.0,70.0,0.0,0.0
+20260419184230,0,0,1,0,4,3.0,69.5,1.5,0.0
+20260419184600,0,0,1,0,4,2.5,64.0,1.5,0.0
